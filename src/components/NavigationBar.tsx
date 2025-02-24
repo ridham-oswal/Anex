@@ -23,7 +23,7 @@ export const NavigationBar = () => {
             to="/" 
             className="text-2xl font-bold text-vision-text tracking-tight hover:text-vision-text/80 transition-colors font-orbitron"
           >
-            Prinex
+            Anex
           </Link>
 
           <form onSubmit={handleSearch} className="flex-1 max-w-xl">
